@@ -36,7 +36,7 @@ p {
 /* horizontal offset; vertical offset; blur spread color */
 	box-shadow: 0 0 6px 6px rgba(255,255,255,.6);
 	border-radius: 20px;
-	padding: 15px;
+	padding: 10px;
 	color: #002060;
 	font-family: 'OpenDyslexic';
 	font-size: 17px;
