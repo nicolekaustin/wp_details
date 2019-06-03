@@ -43,8 +43,10 @@ p {
 	line-height: 1.6;
 }
 
-div.featured-media {
-	;
+h1.site-title {
+	font-family: Palatino;
+	
+
 }
 
 @font-face {
