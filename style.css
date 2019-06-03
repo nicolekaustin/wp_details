@@ -43,10 +43,17 @@ p {
 	line-height: 1.6;
 }
 
+div.featured-media {
+	;
+}
+
 @font-face {
-	font-family: 'OpenDyslexic';
-	src: format("eot",")");
-	src: format('woff'), format('truetype'), format('svg') format("otf");
-	font-weight: normal;
-	font-style: normal;
+font-family: 'OpenDyslexic';
+src: url('https://cdn.jsdelivr.net/gh/antijingoist/open-dyslexic@20160623-Stable/eot/OpenDyslexic-Regular.eot') format('eot'),
+src: url('https://cdn.jsdelivr.net/gh/antijingoist/open-dyslexic@20160623-Stable/woff/OpenDyslexic-Regular.woff') format('woff'),
+url('https://cdn.jsdelivr.net/gh/antijingoist/open-dyslexic@20160623-Stable/ttf/OpenDyslexic3-Regular.ttf') format('truetype'),
+url('https://cdn.jsdelivr.net/gh/antijingoist/open-dyslexic@20160623-Stable/svg/OpenDyslexic-Regular.svg') format('svg')
+url('https://cdn.jsdelivr.net/gh/antijingoist/open-dyslexic@20160623-Stable/otf/OpenDyslexic-Regular.otf') format('otf');
+font-weight: normal;
+font-style: normal;
 }
