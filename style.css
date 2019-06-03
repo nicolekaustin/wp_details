@@ -45,9 +45,12 @@ p {
 
 h1.site-title {
 	font-family: Palatino;
-	
-
 }
+.entry-header, .entry-content {
+	float: unset;
+	width: unset;
+}
+
 
 @font-face {
 font-family: 'OpenDyslexic';
