@@ -1,14 +1,10 @@
 /*whole online portfolio style sheet*/
+
 textarea.med {
 	width: 400px;
 	height: 250px;
 }
 
-/*
-Welcome to Custom CSS!
-
-To learn how this works, see http://wp.me/PEmnE-Bt
-*/
 .wp-block-column {
 	background-color: rgba(255,255,255,.7);
 /* horizontal offset; vertical offset; blur spread color */
