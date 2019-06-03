@@ -19,7 +19,7 @@ textarea.med {
 	color: #963c52;
 }
 
-.entry-header h2.entry-title  {
+.page.page-one-column .entry-header, .twentyseventeen-front-page.page-one-column .entry-header, .archive.page-one-column:not(.has-sidebar) .page-header {
 	color: #963c52;
 }
 
