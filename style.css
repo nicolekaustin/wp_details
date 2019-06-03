@@ -1,0 +1,56 @@
+/*whole online portfolio style sheet*/
+textarea.med {
+	width: 400px;
+	height: 250px;
+}
+
+/*
+Welcome to Custom CSS!
+
+To learn how this works, see http://wp.me/PEmnE-Bt
+*/
+.wp-block-column {
+	background-color: rgba(255,255,255,.7);
+/* horizontal offset; vertical offset; blur spread color */
+	box-shadow: 0 0 7px 9px rgba(255,255,255,.6);
+	border-radius: 20px;
+	padding: 15px;
+	color: #002060;
+	font-family: 'OpenDyslexic';
+}
+
+.wp-block-column h3 {
+	color: #963c52;
+}
+
+.page-title h2 {
+	color: #963c52;
+}
+
+.site-description h2 {
+	color: #963c52;
+}
+
+.page-content h2 {
+	color: #963c52;
+}
+
+p {
+	background-color: rgba(255,255,255,.6);
+/* horizontal offset; vertical offset; blur spread color */
+	box-shadow: 0 0 6px 6px rgba(255,255,255,.6);
+	border-radius: 20px;
+	padding: 15px;
+	color: #002060;
+	font-family: 'OpenDyslexic';
+	font-size: 17px;
+	line-height: 1.6;
+}
+
+@font-face {
+	font-family: 'OpenDyslexic';
+	src: format("eot",")");
+	src: format('woff'), format('truetype'), format('svg') format("otf");
+	font-weight: normal;
+	font-style: normal;
+}
