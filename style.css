@@ -19,8 +19,14 @@ textarea.med {
 	color: #963c52;
 }
 
-.page .panel-content .entry-title, .page-title, body.page:not(.twentyseventeen-front-page) .entry-title {
+.page .panel-content .entry-title, .page-title,
+body.page:not(.twentyseventeen-front-page) header.entry-header h2.entry-title {
 	color: #963c52;
+}
+
+.page.page-one-column .entry-header,
+.twentyseventeen-front-page.page-one-column .entry-header {
+	margin-bottom: 0;
 }
 
 .site-description h2 {
