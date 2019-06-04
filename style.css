@@ -66,6 +66,7 @@ p {
 
 h1.site-title {
 	font-family: Palatino;
+	color: #963c52
 }
 .entry-header, .entry-content {
 	float: unset;
