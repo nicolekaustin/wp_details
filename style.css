@@ -35,6 +35,10 @@ ul li {
 	color: #002060;
 }
 
+div.textwidget {
+	font-family: OpenDyslexic;
+}
+
 .page.page-one-column .entry-header,
 .twentyseventeen-front-page.page-one-column .entry-header {
 	margin-bottom: 0;
