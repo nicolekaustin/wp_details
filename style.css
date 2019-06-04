@@ -28,6 +28,11 @@ body.page:not(.twentyseventeen-front-page) header.entry-header h2.entry-title,
 	font-weight: bold;
 	text-transform: uppercase;
 }
+ul li {
+	font-family: OpenDyslexic;
+	font-size: 17px;
+	line-height: 1.6;
+}
 
 .page.page-one-column .entry-header,
 .twentyseventeen-front-page.page-one-column .entry-header {
