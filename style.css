@@ -25,7 +25,8 @@ body.page:not(.twentyseventeen-front-page) header.entry-header h2.entry-title,
 	color: #963c52;
 	font-family: Palatino;
 	font-size: 19pt;
-
+	font-weight: bold;
+	text-transform: uppercase;
 }
 
 .page.page-one-column .entry-header,
