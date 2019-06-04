@@ -20,7 +20,8 @@ textarea.med {
 }
 
 .page .panel-content .entry-title, .page-title,
-body.page:not(.twentyseventeen-front-page) header.entry-header h2.entry-title {
+body.page:not(.twentyseventeen-front-page) header.entry-header h2.entry-title,
+.entry-content h2 {
 	color: #963c52;
 	font-family: Palatino;
 	font-size: 19pt;
